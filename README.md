@@ -1,4 +1,4 @@
-# Machine Learning Final Project: Enhanced Classification on KDD Cup 1999 Dataset
+# Machine Learning Final Project: Enhanced Classification on NSL-KDD Dataset
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project, for a Machine Learning course, aimed to improve classification acc
 
 ## Dataset
 
-We used the KDD Cup 1999 dataset, specifically `kdd_train` and `kdd_test`. [Optional: *Very brief* description - e.g., "Network intrusion detection dataset, with 41 features."] Original research:
+We used the  NSL-KDD dataset, specifically `kdd_train` and `kdd_test`. [Optional: *Very brief* description - e.g., "Network intrusion detection dataset, with 41 features."] Original research:
 
 [**Insert Citation for the Original Research Paper Here**]
 
